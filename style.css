@@ -1,0 +1,35 @@
+body {
+  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  background: #fff;
+  height: 280px;
+  width: 600px;
+  margin=0;
+    
+  -webkit-box-shadow: rgba(0,0,0,0.2) 0px 1px 3px;
+  -moz-box-shadow: rgba(0,0,0,0.2) 0px 1px 3px;
+  box-shadow: rgba(0,0,0,0.2) 0px 1px 3px;
+}
+
+input {
+  width: 540px;
+}
+
+.hImage {
+  width: 30px;
+  high: 30px;
+  float:left;
+  margin:0;
+}
+
+.searchSelect {
+  float:left;
+  width: 18px;
+  appearance: none;
+  border:0;
+}
+
+.tst {
+  overflow: none;
+  high: 40px;
+}
